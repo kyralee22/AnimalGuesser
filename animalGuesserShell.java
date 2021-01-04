@@ -7,6 +7,8 @@ import java.util.*;
 //The index path following a "no" response will go to the left child (left subtree).  
 //The index path following a "yes" response will go to the right child (right subtree).
 
+// certain methods written by kyra lee, 2019
+
 public class animalGuesserShell
 {
       //pre:  "fileName" is the name of a real file containing lines of text
